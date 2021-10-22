@@ -1,2 +1,4 @@
 # Hello-word
-MI pirmer repositoriose hizo cambios 
+MI pirmer repositorio
+
+se hizo cambios 
